@@ -9,10 +9,10 @@ Click to see [my repos api](https://api.github.com/users/scorti-paul)
 
 - [ ] **Structure project and remove unneccesory file/folder**
 - [ ] **Install packages**
-  - [ ] [Helmet](https://www.javatpoint.com/react-helmet) (setup SEO)
-  - [ ] [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start) (setup Rounters)
-  - [ ] [axios](https://axios-http.com/docs/intro) (fetch data from an endpoint)
-  - [ ] [react-paginate](https://github.com/AdeleD/react-paginate) (setup pagination)
+  - [ ] [Helmet](https://www.javatpoint.com/react-helmet) (setup SEO) `npm i --save react-helmet`
+  - [ ] [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start) (setup Rounters) `npm i react-router-dom@6`
+  - [ ] [axios](https://axios-http.com/docs/intro) (fetch data from an endpoint) `npm i axios`
+  - [ ] [react-paginate](https://github.com/AdeleD/react-paginate) (setup pagination) `npm i axios`
 - [ ] **Create components directory with the following pages**
   - [ ] Helmet (to setup SEO)
   - [ ] Home (to display all repos)
