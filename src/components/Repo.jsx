@@ -1,8 +1,11 @@
 import React from 'react'
+import { Outlet } from 'react-router-dom'
 
 const Repo = () => {
   return (
-    <div>Repo</div>
+    <div>
+      <Outlet />
+    </div>
   )
 }
 
