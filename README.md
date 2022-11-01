@@ -20,11 +20,11 @@ Click to see [my repos api](https://api.github.com/users/scorti-paul)
   - [x] PageNotFound (display page not found - 404)
   - [x] ErrorBoundary (test error boundary)
   - [x] Navbar (setup navigations)
-- [ ] **Setup Routes and Navigations in:**
+- [x] **Setup Routes and Navigations in:**
   - [x] index.js
   - [x] NavBar.jsx
   - [x] App.js
-- [ ] **Develop Helmet page**
+- [x] **Develop Helmet page**
 - [ ] **Develop Home page**
   - [ ] *Fetch repos and populate with the following details:*
     - [ ] id
